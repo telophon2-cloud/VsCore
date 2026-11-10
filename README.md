@@ -1,4 +1,7 @@
-![Logo.png]
+<p align="center">
+  <img src="Logo.png" alt="VsCore Logo" width="350">
+</p>
+
 # VsCore Operating System v1.2
 
 **VsCore** (formerly VsInux) is a sovereign, independent, and compact 32-bit operating system for the x86 architecture, written completely from scratch ("on bare metal") without using any third-party standard libraries or POSIX layers. The project was developed by the **VladisSystems Team** under the leadership of **Shumatbaev Vladislav**.
